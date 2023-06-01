@@ -1,0 +1,28 @@
+﻿//add scratch sound when speed and acceleration is apart from each other
+//finished product will probably have the car created when game has started
+//so maybe new Car will be meaningless, but classes has be used
+//when speed goes up, consider moving back(as camera view), by decreasing size of objects
+//changing rims? selecting different cars?
+//using buttons on screen(webpage) for selecting?
+//? if car has reached center of the canvas, background will move at the speed of car(or maybe *0.5), speed of car will be zero
+//? if speed<certain_speed, car will move back to starting pos
+//obstacles! should come soon, jumping from triangle shapes=cliff
+//hop the car with space? :)
+//weather api can be used for Ankara?*** Alihan
+//show the weather, change theme, or blow wind or sth.
+//or the time of the day? day and night
+//better add new js file to the top of others, in index.html
+
+
+//create osd of gear selector
+//select gears with a or z keys on keyboard
+//most instead of multiple objects, turn it to a single object with a new version(write in notes?) and make background move, instead of the car itself, when newly launched(from 0-to-x) and while stopping(if speed is under a certain value) in order to have launching effect after stopping.
+//in normal cruise mode, car should be in the center of the screen
+//arabaın hızına göre zoom in zoom out da yapılabilir
+//gece  gündüz olayı? zamana(dakika) bağlı olarak background ve far ışığı :))))))))))))))))))
+//changable mode, one mode shaould track the car and one mode can be free camera
+//araba çalıştırma sesi ekle, ayrıca tüm kontroller touchscreen için de çalışmalı..
+
+aydınlatma direkleri, sayları çokça
+yanından geçtikçe cıv cıv rüzgar ses(hıza bağlı)
+araba farı(gece) + stop lambası(frende)
